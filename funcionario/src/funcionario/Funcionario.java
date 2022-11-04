@@ -58,7 +58,7 @@ public class Funcionario {
 		System.out.println("\nNivel: "+getNivel());
 		System.out.println("\nEmpresa: "+getEmpresa());
 		System.out.println("\nSalario: "+getSalario());
-		System.out.println("\n *****************************************");
+	
 		
 		
 	}
